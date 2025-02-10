@@ -1,0 +1,16 @@
+Time = 1.0 earth years. Total energy = -1.685469216054662e+35 J.
+Time = 2.0 earth years. Total energy = -1.685467629809491e+35 J.
+Time = 3.0 earth years. Total energy = -1.6854678381717393e+35 J.
+Time = 3.999 earth years. Total energy = -1.6854591635280075e+35 J.
+Time = 4.998 earth years. Total energy = -1.6854678202723902e+35 J.
+Time = 5.997 earth years. Total energy = -1.6854656508122e+35 J.
+Time = 6.996 earth years. Total energy = -1.685461230327163e+35 J.
+Time = 7.995 earth years. Total energy = -1.685466679386327e+35 J.
+Time = 8.995000000000001 earth years. Total energy = -1.685454086659201e+35 J.
+Time = 9.994 earth years. Total energy = -1.685453932191379e+35 J.
+Time = 10.994 earth years. Total energy = -1.685458968522508e+35 J.
+Time = 11.994 earth years. Total energy = -1.6854542088786316e+35 J.
+Time = 12.993 earth years. Total energy = -1.6854653685006064e+35 J.
+Time = 13.993 earth years. Total energy = -1.685463911879554e+35 J.
+Time = 14.993 earth years. Total energy = -1.6854569799463493e+35 J.
+Time = 15.992 earth years. Total energy = -1.685459685329564e+35 J.
